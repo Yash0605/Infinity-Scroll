@@ -44,6 +44,7 @@ h1 {
 .image-container img {
     width: 100%;
     margin-top: 1.5rem;
+    /* height: 90vh; */
 }
 
 /* media query for large smartphones */
